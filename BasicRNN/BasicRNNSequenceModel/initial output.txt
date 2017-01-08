@@ -1,0 +1,20 @@
+initial output
+
+
+after 100 iteration
+
+
+
+after 200 iteration
+
+
+
+after 300 iteration
+
+
+
+after 400 iteration
+
+
+
+after 500 iteration

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/harshul/Documents/MachineLearning/tensorflow/BasicRNN/mymodelcharRNNSequence.ckpt"
+all_model_checkpoint_paths: "/home/harshul/Documents/MachineLearning/tensorflow/BasicRNN/mymodelcharRNNSequence.ckpt"
